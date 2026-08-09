@@ -5,8 +5,7 @@ This repository hosts the public **Privacy Policy** for the **RadiX Dose** app
 iOS · iPadOS · macOS), so it can be linked from App Store Connect.
 
 - **Policy page:** [`index.html`](index.html)
-- **Live URL (after enabling GitHub Pages):**
-  `https://<your-github-username>.github.io/radix-dose-privacy/`
+- **Live URL:** https://oayrancioglu.github.io/radix-dose-privacy/
 
 ## Summary
 
