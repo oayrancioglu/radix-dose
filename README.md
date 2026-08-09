@@ -4,11 +4,11 @@ The public web page for the **RadiX Dose** app (a reference absorbed-dose
 calculator for external-beam radiotherapy — iOS · iPadOS · macOS), served via
 GitHub Pages.
 
-- **Landing page:** https://oayrancioglu.github.io/radix-dose-privacy/ — app
+- **Landing page:** https://oayrancioglu.github.io/radix-dose/ — app
   overview, App Store download link, and resources.
 - **Privacy Policy** (link this in App Store Connect → App Information →
-  Privacy Policy URL): https://oayrancioglu.github.io/radix-dose-privacy/privacy.html
-- **User Guide (PDF):** https://oayrancioglu.github.io/radix-dose-privacy/RadiX_Dose_User_Guide.pdf
+  Privacy Policy URL): https://oayrancioglu.github.io/radix-dose/privacy.html
+- **User Guide (PDF):** https://oayrancioglu.github.io/radix-dose/RadiX_Dose_User_Guide.pdf
 
 ## Files
 
