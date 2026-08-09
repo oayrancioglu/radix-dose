@@ -1,26 +1,31 @@
-# RadiX Dose — Privacy Policy
+# RadiX Dose — project page
 
-This repository hosts the public **Privacy Policy** for the **RadiX Dose** app
-(a reference absorbed-dose calculator for external-beam radiotherapy, for
-iOS · iPadOS · macOS), so it can be linked from App Store Connect.
+The public web page for the **RadiX Dose** app (a reference absorbed-dose
+calculator for external-beam radiotherapy — iOS · iPadOS · macOS), served via
+GitHub Pages.
 
-- **Policy page:** [`index.html`](index.html)
-- **Live URL:** https://oayrancioglu.github.io/radix-dose-privacy/
+- **Landing page:** https://oayrancioglu.github.io/radix-dose-privacy/ — app
+  overview, App Store download link, and resources.
+- **Privacy Policy** (link this in App Store Connect → App Information →
+  Privacy Policy URL): https://oayrancioglu.github.io/radix-dose-privacy/privacy.html
+- **User Guide (PDF):** https://oayrancioglu.github.io/radix-dose-privacy/RadiX_Dose_User_Guide.pdf
 
-## Summary
+## Files
 
-RadiX Dose collects **no** personal data. It has no accounts, no analytics, no
-advertising, and no third-party tracking. All data you enter stays on your
-device; the app works fully offline. See `index.html` for the full policy.
+| File | Purpose |
+|------|---------|
+| `index.html` | Landing page (hero · App Store button · features · resource links) |
+| `privacy.html` | Privacy Policy (No data collected — all on-device) |
+| `RadiX_Dose_User_Guide.pdf` | The app's user guide |
 
-## How this is published
+## To update
 
-GitHub Pages serves `index.html` at the URL above (repository **Settings →
-Pages → Branch: `main` / root**). Paste that URL into App Store Connect under
-**App Privacy → Privacy Policy URL**.
+Edit the file, then `git commit` + `git push`. GitHub Pages redeploys within
+~1 minute.
+
+> **Before release:** in `index.html`, replace `idXXXXXXXXXX` in the
+> "Download on the App Store" link with the app's real App Store ID.
 
 ## Contact
 
-Oğuzhan Ayrancıoğlu — oguzhanayrancioglu@gmail.com
-
-© 2026 Oğuzhan Ayrancıoğlu.
+Oğuzhan Ayrancıoğlu — oguzhanayrancioglu@gmail.com · © 2026 Oğuzhan Ayrancıoğlu.
