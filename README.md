@@ -19,7 +19,7 @@ GitHub Pages.
 | `privacy.html` | Privacy Policy (No data collected — all on-device) |
 | `RadiX_Dose_Getting_Started.pdf` | The app's quick setup guide |
 | `RadiX_Dose_User_Guide.pdf` | The app's user guide |
-| `[Demo Backup File](https://github.com/oayrancioglu/radix-dose/blob/main/RadiX_Dose_Review_Sample_Data.json)` | "General Hospital" setup for demo usage of the app |
+| `[Demo Backup File] (https://github.com/oayrancioglu/radix-dose/blob/main/RadiX_Dose_Review_Sample_Data.json)` | "General Hospital" setup for demo usage of the app |
 
 ## Contact
 
