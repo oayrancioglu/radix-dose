@@ -8,6 +8,7 @@ GitHub Pages.
   overview, App Store download link, and resources.
 - **Privacy Policy** (link this in App Store Connect → App Information →
   Privacy Policy URL): https://oayrancioglu.github.io/radix-dose/privacy.html
+- **Getting Started (PDF):** https://oayrancioglu.github.io/radix-dose/RadiX_Dose_Getting_Started.pdf
 - **User Guide (PDF):** https://oayrancioglu.github.io/radix-dose/RadiX_Dose_User_Guide.pdf
 
 ## Files
