@@ -16,15 +16,9 @@ GitHub Pages.
 |------|---------|
 | `index.html` | Landing page (hero · App Store button · features · resource links) |
 | `privacy.html` | Privacy Policy (No data collected — all on-device) |
+| `RadiX_Dose_Getting_Started.pdf` | The app's quick setup guide |
 | `RadiX_Dose_User_Guide.pdf` | The app's user guide |
 
-## To update
-
-Edit the file, then `git commit` + `git push`. GitHub Pages redeploys within
-~1 minute.
-
-> **Before release:** in `index.html`, replace `idXXXXXXXXXX` in the
-> "Download on the App Store" link with the app's real App Store ID.
 
 ## Contact
 
