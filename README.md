@@ -10,7 +10,7 @@ GitHub Pages.
   Privacy Policy URL): https://oayrancioglu.github.io/radix-dose/privacy.html
 - **Getting Started (PDF):** https://oayrancioglu.github.io/radix-dose/RadiX_Dose_Getting_Started.pdf
 - **User Guide (PDF):** https://oayrancioglu.github.io/radix-dose/RadiX_Dose_User_Guide.pdf
-- **Demo Backup File:** https://github.com/oayrancioglu/radix-dose/blob/main/RadiX_Dose_Review_Sample_Data.json
+- **Demo Clinic Backup File:** https://github.com/oayrancioglu/radix-dose/blob/main/RadiX_Dose_Review_Sample_Data.json
 
 ## Files
 
@@ -20,7 +20,7 @@ GitHub Pages.
 | `privacy.html` | Privacy Policy (No data collected — all on-device) |
 | `RadiX_Dose_Getting_Started.pdf` | The app's quick setup guide |
 | `RadiX_Dose_User_Guide.pdf` | The app's user guide |
-| `RadiX_Dose_Review_Sample_Data.json` | "General Hospital" setup for demo usage of the app |
+| `RadiX_Dose_Review_Sample_Data.json` | "General Hospital" setup for demo clinic usage of the app |
 
 ## Contact
 
